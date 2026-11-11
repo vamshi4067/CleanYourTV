@@ -1,0 +1,42 @@
+Cricket Legends TV artwork
+Photos 1–10 were supplied for this personal TV build. The player cutouts were traced from those photos.
+Photo 11 is a crop of “Virat Kohli after his century at Trent Bridge” by Dun.can, CC BY 2.0.
+https://commons.wikimedia.org/wiki/File:Virat_Kohli_after_his_century_at_Trent_Bridge.jpg
+https://creativecommons.org/licenses/by/2.0/
+Photo 12 is an official thumbnail from The Big Bang Theory's YouTube channel.
+https://www.youtube.com/watch?v=U7yW6f7-DDk
+Photo 13 is a crop of an official thumbnail from the Friends YouTube channel.
+https://www.youtube.com/watch?v=XvoU5QfU12g
+
+Home HD rotation
+Virat Kohli: Dun.can, CC BY 2.0, cropped from https://commons.wikimedia.org/wiki/File:Virat_Kohli_after_his_century_at_Trent_Bridge.jpg
+MS Dhoni: Agashe Foundation, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Mandar_Agashe_felicitating_MS_Dhoni.jpg
+AB de Villiers: paddynapper, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg
+
+Full-screen Home rotation sources
+Virat Kohli batting: https://cdn.mos.cms.futurecdn.net/hPhB7gvMPUCKNjLqVp3XZb.jpg
+Kohli and Dhoni: https://wallpapersok.com/wallpapers/cricket-captains-kohli-dhoni-walking-on-field-cxi1hfffbzo5afzh.html
+AB de Villiers batting: https://staticg.sportskeeda.com/editor/2023/02/06b87-16766225188372-1920.jpg
+Netflix, YouTube and Apple vector silhouettes: https://github.com/simple-icons/simple-icons (v11.15.0).
+
+Movie picker artwork uses the Open Graph key art from the Netflix and Prime Video title pages for each film or series.
+
+Browse-and-add catalogue artwork
+Lucky Baskhar — official page artwork from https://www.netflix.com/title/81902035
+Court: State vs A Nobody — official page artwork from https://www.netflix.com/title/81950906
+HIT: The Third Case — official page artwork from https://www.netflix.com/title/81999621
+Maharaja — official page artwork from https://www.netflix.com/title/81690671
+Fighter — official page artwork from https://www.netflix.com/title/81698397
+Darlings — official page artwork from https://www.netflix.com/title/81537953
+Crew — official page artwork from https://www.netflix.com/title/81672746
+RRR (Hindi) — official page artwork from https://www.netflix.com/title/81476453
+Kalki 2898 AD — official page artwork from https://www.primevideo.com/detail/0KQU5V0T0FGF8L5L368NKW6INT
+Drushyam 2 — official page artwork from https://www.primevideo.com/detail/0NDMSNFV3RQSJN8FUP39RSCPL2
+Panchayat — official page artwork from https://www.primevideo.com/detail/0KAFPP1MAADAFUOA6I2WR5D4TM
+MasterChef World — official page artwork from https://www.youtube.com/@MasterChefWorld
+National Geographic — official page artwork from https://www.youtube.com/@NatGeo
+Netflix India — official page artwork from https://www.youtube.com/@NetflixIndiaOfficial
+Prime Video India — official page artwork from https://www.youtube.com/@PrimeVideoIN
+TED — official page artwork from https://www.youtube.com/@TED
+Marques Brownlee — official page artwork from https://www.youtube.com/@mkbhd
+Veritasium — official page artwork from https://www.youtube.com/@veritasium

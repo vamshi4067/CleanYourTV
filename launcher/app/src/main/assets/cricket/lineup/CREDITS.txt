@@ -1,0 +1,25 @@
+Personal TV lineup artwork
+
+Virat Kohli, AB de Villiers and Dhoni cutouts use the photos provided for this build.
+Virat scene: Dun.can, CC BY 2.0, cropped from https://commons.wikimedia.org/wiki/File:Virat_Kohli_after_his_century_at_Trent_Bridge.jpg
+AB de Villiers scene: paddynapper, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:AB_de_Villiers_2.jpg
+Iron Man render: https://purepng.com/photo/26606/render-ironman-tony-stark
+Iron Man scene: https://www.imdb.com/title/tt0371746/mediaviewer/rm3625159680/
+Spider-Man render: https://www.pngaaa.com/detail/1628960
+Spider-Man scene: https://www.sonypictures.com/movies/spidermannowayhome
+Friends still and cutout: https://www.youtube.com/watch?v=XvoU5QfU12g
+The Big Bang Theory still and cutout: https://www.youtube.com/watch?v=U7yW6f7-DDk
+MasterChef Canada still and cutout: https://www.bellmedia.ca/the-lede/press/mccs8-judges/
+Service symbols are custom drawings for this personal launcher.
+
+The current AB de Villiers, Virat Kohli, Spider-Man, Friends, The Big Bang Theory and MasterChef Canada foreground layers use the user's supplied photos. The online images named above remain the scene sources where applicable.
+
+HD revision: AB de Villiers, Virat Kohli, Dhoni and MasterChef Canada are AI-assisted restorations of the supplied photos.
+Friends foreground: https://www.pngaaa.com/detail/40382
+Spider-Man foreground: https://image.pngaaa.com/553/650553.png
+The Big Bang Theory foreground: original cast poster from Prime Video, framed by the launcher.
+https://m.media-amazon.com/images/S/pv-target-images/d3ffe3a8b79a874e7fc8c1085b3c5d6ed5295adf13edc81027f530af46a9e19e.jpg
+
+Backdrop update
+Friends: Central Perk set photo via Sky News, https://e3.365dm.com/21/05/2048x1152/skynews-central-perk-friends_5397807.jpg
+The Big Bang Theory: TBS set background, https://i.cdn.tbs.com/assets/images/2020/04/BBT-bg-1.jpg

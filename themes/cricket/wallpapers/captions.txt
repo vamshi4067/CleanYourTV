@@ -1,0 +1,12 @@
+# wallpaper_captions: the name shown under the top-right pills, as "<file><TAB><name>", one per line
+# (themes/README.md); a picture without a line shows no name.
+01-virat-kohli.png	Kohli · 18
+02-ms-dhoni.png	Dhoni · 7
+03-ab-de-villiers.png	De Villiers · 17
+04-sachin-tendulkar.png	Tendulkar · 10
+05-rohit-sharma.png	Rohit · 45
+06-chris-gayle.png	Gayle · 333
+07-yuvraj-singh.png	Yuvraj · 12
+08-jasprit-bumrah.png	Bumrah · 93
+09-sourav-ganguly.png	Ganguly · 99
+10-ricky-ponting.png	Ponting · 14

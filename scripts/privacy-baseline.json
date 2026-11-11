@@ -1,0 +1,185 @@
+{
+  "addons/ad-blocking/README.md": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "2be631f7d2ef6e6902297976d9320d6342a33624aeab06c9a32cbc2fd980c6fc"
+  },
+  "addons/ad-blocking/app/src/main/java/io/github/maxhayim/adblocking/Blocker.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "f9648fb33f4f564d1c0d8ef9067a7c7da67b39372e07001d7e07eb0c6205653a"
+  },
+  "addons/ad-blocking/app/src/main/java/io/github/maxhayim/adblocking/MainActivity.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "2d02b0a8d9364a894fa830a05a5b8d7d9a61157df62054a163c73b32b396d744"
+  },
+  "addons/ad-blocking/app/src/test/java/io/github/maxhayim/adblocking/BlockerTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "8bc4f1012c7f22b3909a5037e41d44f62f7396fa795f8ab366fb526cf694930b"
+  },
+  "addons/ad-blocking/install.sh": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "60fe7405d4e6e36c6443fcc1363326262fbccc6918d71fe72b375d1f8f698d2c"
+  },
+  "addons/airplay-status/app/src/test/java/io/github/maxhayim/airplaystatus/ReceiversTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "8ad32a15da271ad8da311d84f4ff33adfb401e551cf07128a4fc065c1c81f481"
+  },
+  "addons/frigate-glance/app/src/test/java/io/github/nickld/frigateglance/CardTextTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "78d3bdbc041ac6d820aea19b13c703db315fc2806c139d8fee16123c5a678517"
+  },
+  "addons/frigate-glance/app/src/test/java/io/github/nickld/frigateglance/GlanceConfigTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "278c3e0acf6b24bb341d849256845819f398a1154463f4c6df13e94ca92c92f9"
+  },
+  "addons/frigate-glance/app/src/test/java/io/github/nickld/frigateglance/HostPortTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "eac4b8523788e3c2c2aa369d5e4c6bbe0b55eb743e9d4f4e79fd56a015f3fae6"
+  },
+  "addons/frigate-glance/app/src/test/java/io/github/nickld/frigateglance/LiveVideoTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "41a150807562ff5aac9fd0e4cb9cbce9aeadfb808f9fa9d8cc035cef1eb20b6c"
+  },
+  "addons/frigate-glance/config.example.json": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "fe92d45b9087e42d273edea01d0d690986697d961311b1f2ada28960a05b7de7"
+  },
+  "addons/remote-access/app/src/test/java/io/github/maxhayim/remoteaccess/AccessTest.java": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "a9719f905c5d7be5c62342adfb7caf09c779fc60a89a89dcd8cb068324713e31"
+  },
+  "addons/tv-hub/tools/make_fixtures.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "0215a86e021591ffdcdaf38a10d3c55ca364fc239f9502a3fd1d472e7e2d13d2"
+  },
+  "docs/REMOTE.md": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "30d90045b875887ea5da1b0a618a698388320961aed62377d9b360f915b9abfc"
+  },
+  "docs/devices/tcl-50dp660.txt": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "hardware-address"
+    ],
+    "sha256": "60f89beecb26083eda0f04d4f219e4b17a191c5c5ef261241fe140cf0ad139c4"
+  },
+  "examples/tcl-50dp660/debloat.txt": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "hardware-address"
+    ],
+    "sha256": "4bb34a064d17f04a0d88ccefc4ee71ec9de97bcb64a2c579cded6241eb4a4eb8"
+  },
+  "tests/test_adb_key_created_private.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-key"
+    ],
+    "sha256": "4d2e72511c9452297b0cb1326d9eaf69cf76ed91473eea7f3d9150fd41121c23"
+  },
+  "tests/test_adb_key_permissions.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-key"
+    ],
+    "sha256": "fe21d743a054f0a5bbb4444d55a272d5483c9f91619c5db7e3ea6aee9b24079b"
+  },
+  "tests/test_doc_addresses.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4",
+      "local-home-path"
+    ],
+    "sha256": "0fea90d748eb04bfac6749abbb3f871f6739801477970832c50993bded17314f"
+  },
+  "tests/test_doc_identifiers.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "hardware-address"
+    ],
+    "sha256": "76b6f4bc0a182d6752144e24d304618e47619863d544156fd1df1640adc608f6"
+  },
+  "tests/test_docker_build_host_key_dir.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "local-home-path"
+    ],
+    "sha256": "1504c0a4969a6e332e7ec1641b8e1bbe6ed6ece3a66497cc21734ab7e2900f7f"
+  },
+  "tests/test_philips_api.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "dfe06498baae40ffd7db92cea313f9a13486c5f4dfc82b881390802151a406f1"
+  },
+  "tests/test_recovery_address_change.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "private-ipv4"
+    ],
+    "sha256": "acf235abc4e3f10205c20e6067621de7cdb1b3d238fb2941bd40468fe64f3ef8"
+  },
+  "tests/test_recovery_unreached_tv.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "local-home-path"
+    ],
+    "sha256": "69878dd56c6c2c6a1dd9769c80e594d52f0bde127a4fa5ff1652fdfc74de8e1f"
+  },
+  "tests/test_theme_drive_letter_path.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "local-home-path"
+    ],
+    "sha256": "85b9e5292c6b04de6d566be5f80c01fb2b547e293adffbadf62c06ba8387e527"
+  },
+  "tests/test_theme_restart.py": {
+    "reason": "Exact file from the original upstream project archive; public protocol defaults, documentation examples or synthetic test fixtures.",
+    "rules": [
+      "local-home-path"
+    ],
+    "sha256": "1bf5919893b4bb1bc420c3003b357c3a869ea08356d7e83f708aef0020367a17"
+  }
+}

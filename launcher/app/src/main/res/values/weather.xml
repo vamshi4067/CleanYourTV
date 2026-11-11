@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Opt in locally. Blank values disable weather without making a network request. -->
+    <string name="weather_latitude" translatable="false"></string>
+    <string name="weather_longitude" translatable="false"></string>
+</resources>
